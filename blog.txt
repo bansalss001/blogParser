@@ -1,0 +1,23 @@
+---
+title: "What is SRP?"
+description: "SRP is a programming paradigm which advocates code writing as per responsibility."
+preview_image: /images/blog/2018/what-is-srp/article-header.png
+section: blog
+has_comments: false
+author: John Doe
+date: 2018-01-08 10:00 UTC
+tags: Development, Programming, principle
+published: true
+---
+
+The single responsibility principle is a computer programming principle that states that every module, class, or function[1] should have responsibility over a single part of the functionality provided by the software, and :that responsibility should be entirely encapsulated by the class. All its services should be narrowly aligned with that responsibility. Robert C. Martin expresses the principle as, "A class should have only one reason to change,"[1] although, because of confusion around the word "reason" he more recently stated "This principle is about people.(Actor)"[2]
+
+READMORE
+
+![SRP](/images/blog/2018/what-is-srp/article-header.png)
+
+## History
+
+CThe term was introduced by Robert C. Martin in an article by the same name as part of his Principles of Object Oriented Design,[3] made popular by his book Agile Software Development, Principles, Patterns, and Practices.[4] Martin described it as being based on the principle of cohesion, as described by Tom DeMarco in his book Structured Analysis and System Specification,[5] and Meilir Page-Jones in The Practical Guide to Structured Systems Design.[6] In 2014 Martin wrote a blog post entitled The Single Responsibility Principle with a goal to clarify what was meant by the phrase "reason for change."
+
+## Annotation Types
