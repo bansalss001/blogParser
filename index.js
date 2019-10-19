@@ -15,7 +15,7 @@ var jsonOutput = {};
 					headers = headerString.map(head=>{return head.split(':')});
 				}
 				for (let header of headers){
-					let key = header.shift();
+					let key = header.shift().trim();
 					let value = header.join(':').trim();
 					try {
 						value = eval(value);
