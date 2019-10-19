@@ -2,7 +2,7 @@
 Blog Parser help convert Blog file to JSON
 
 ## Command to Run 
-  1.npm install
+  1. npm install
   2. npm start
   
 ## Change you Blog File 
