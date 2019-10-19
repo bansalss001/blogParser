@@ -44,7 +44,7 @@ var jsonOutput = {};
 			}
 			console.log(jsonOutput);
 		} else {
-			console.log(error);
+			console.log(err);
 		}
 		
 	})
